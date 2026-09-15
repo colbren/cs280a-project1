@@ -1,0 +1,12 @@
+# Raw glass plate scans (large, redownloadable from course site)
+*.tif
+*.tiff
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Generated outputs (uncomment if you don't want to track these either)
+# out*.jpg
